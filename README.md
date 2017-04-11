@@ -1,3 +1,7 @@
 # Prueba
 hola github
-cambien algo mas en git 
+clase nueva
+git 
+visual basic
+descargar 
+fin
